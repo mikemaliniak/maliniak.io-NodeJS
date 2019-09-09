@@ -1,0 +1,20 @@
+{
+  "name": "maliniak.io-NodeJS",
+  "version": "1.0.0",
+  "description": "Maliniak.io portfolio website using Node, Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemaliniak/maliniak.io-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikemaliniak/maliniak.io-NodeJS/issues"
+  },
+  "homepage": "https://github.com/mikemaliniak/maliniak.io-NodeJS#readme"
+}
