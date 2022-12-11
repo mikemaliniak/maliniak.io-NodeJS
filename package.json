@@ -20,7 +20,7 @@
   "homepage": "https://github.com/mikemaliniak/maliniak.io-NodeJS#readme",
   "dependencies": {
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "joi": "^14.3.1",
     "pug": "^2.0.4"
   },
